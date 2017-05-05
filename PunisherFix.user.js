@@ -14,7 +14,7 @@ request.onreadystatechange = function() {
         if(version < updatedScriptVersion)
         {
             console.log("Update script");
-            window.location.href = "https://github.com/Rikeardo/Goliath-IKEA-Tweaks/raw/master/GoliathIKEATweaks.user.js";
+            window.location.href = "https://raw.githubusercontent.com/Rikeardo/PunisherFix/master/PunisherFix.user.js";
         }
     }
 };
