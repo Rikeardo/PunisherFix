@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         Fix punisher being in the way on chat report
+// @name         Punisher Fix
+// @description  Fix punisher being in the way on chat report
 // @version      0.1
 // @author       _Rikardo_
 // @match        https://goliath.hypixel.net/chatreports
